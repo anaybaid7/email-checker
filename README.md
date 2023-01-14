@@ -7,7 +7,7 @@ A simple webpage to check if an email address exists or not.
 ### Example
 | Input                 | Output    | Meaning                        |
 | --------------------- | :-------- | -------                        |
-| contact@param.me      | Green     | Email exists                   |
+| anaybaid1.00x@gmail.com      | Green     | Email exists                   |
 | somerando@example.com | Red       | Email does not exist           |
 | hafaxohubi@larjem.com | Yellow    | Email exists but is disposable |
 
@@ -20,10 +20,10 @@ If an email address exists the page turns green, otherwise it turns red. If the 
 The API provides much more information about email addresses that could be implemented into the site. An example result:
 ```
 {
-  "email":"contact@param.me",
+  "email":"anaybaid1.00x@gmail.com",
   "did_you_mean":"",
   "user":"contact",
-  "domain":"param.me",
+  "domain":"anaybaid.me",
   "format_valid":true,
   "mx_found":true,
   "smtp_check":true,
