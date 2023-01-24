@@ -1,4 +1,4 @@
-# email-checker
+# email-validator
 Checks validity of Emails 
 
 # Email Status
